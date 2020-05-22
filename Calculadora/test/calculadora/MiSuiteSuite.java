@@ -1,5 +1,8 @@
 package calculadora;
 
+import calculadora.CalculadoraBefoAlfTest;
+import calculadora.CalculadoraParametroTest;
+import calculadora.CalculadoraTest;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
